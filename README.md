@@ -1,16 +1,55 @@
-# React + Vite
+# Finance Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack financial management solution developed for real-time expense tracking, budget analysis, and data visualization.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎓 Academic Credit
+This project was developed in fulfillment of the course **BCSE203E - Web Programming**.
 
-## React Compiler
+**Contributors:**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Srinidhi Sridhar (24BAI1011)
+* S Shubankar (24BAI1026)
+* Meghna Ravikumar (24BAI1134)
+* Niranjan J Menon (24BAI1509)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔒 Project Status & Usage
+**© 2026 The Development Team. All rights reserved.**
+
+This repository is the official documentation for our group project. The source code, database schema, and API logic are the collective intellectual property of the contributors listed above. Unauthorized redistribution or claiming individual ownership of this work is a violation of academic integrity.
+
+---
+
+## 💻 Tech Stack
+
+* **Frontend:** React (Vite)
+* **Backend:** Python (FastAPI/Flask)
+* **Database:** MySQL
+
+## 📂 Project Structure 
+```
+├── backend/                # Python API Logic
+│   ├── app.py              # Main Server Entry Point
+│   └── money_tracker.db    # Database Instance
+├── src/                    # React Frontend Source
+│   ├── components/         # UI Modules (Dashboard, Analytics, Auth, etc.)
+│   ├── utils/              # API Integration & Helpers (api.js)
+│   ├── App.jsx             # Core Logic
+│   ├── App.css             # Custom Styling
+│   └── main.jsx            # Frontend Entry
+├── README.md               # Documentation 
+├── .gitignore              # Dependency Management
+├── index.html              # Frontend Entry Point
+└── package.json            # Node.js dependencies
+```
+
+<!-- ## 🛠️ Setup & Installation
+
+### 1. Frontend (React)
+```bash
+cd frontend
+npm install
+npm run dev -->
