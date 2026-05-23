@@ -2,7 +2,7 @@
 
 A full-stack financial management solution developed for real-time expense tracking, budget analysis, and data visualization.
 
----
+<!---
 
 ## 🎓 Academic Credit
 This project was developed in fulfillment of the course **BCSE203E - Web Programming**.
@@ -21,7 +21,7 @@ This project was developed in fulfillment of the course **BCSE203E - Web Program
 
 This repository is the official documentation for our group project. The source code, database schema, and API logic are the collective intellectual property of the contributors listed above. Unauthorized redistribution or claiming individual ownership of this work is a violation of academic integrity.
 
----
+--- -->
 
 ## 💻 Tech Stack
 
